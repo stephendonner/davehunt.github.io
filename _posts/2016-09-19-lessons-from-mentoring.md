@@ -16,22 +16,22 @@ projects - I most certainly have!
 
 Something to note before I get into my learnings and advice for anyone about to
 embark on mentoring (or being mentored) is that these were remote mentorships.
-Although I was fortunate enough to spend time with Justin and Ana, for the
-majority of their projects we had an ocean separating us. As a result some of
+Although I was fortunate enough to spend a little in-person time with Justin and Ana, for the
+majority of their projects we had an ocean separating us. As a result, some of
 what I'll talk about may be specific to the nature of this challenge.
 
 # Prepare a cohesive project
 
 The two projects I mentored were very different. Ana's was an enhancement to a
-pytest plugin, of which I have been the primary contributor and maintainer.
-Being so familiar with the project, and understanding the problems that the
-project addresses helped me to form a fairly cohesive project. There were a few
-smaller enhancements initially to get Ana familiar with the codebase and
+pytest plugin, for which I have been the primary contributor and maintainer.
+Being so familiar with the project and understanding the problems that the
+project addresses helped me to form a fairly cohesive project. Initially, there were a few
+smaller enhancements to get Ana familiar with the codebase and
 associated packages, leading up to the main enhancement. This made it easier to
 gauge how well Ana was progressing, and to decide when she was ready to move
 onto the main task.
 
-For Justin's project I was initially less familiar with the needs of the teams
+For Justin's project, I was initially less familiar with the needs of the teams
 involved. Although I had worked on the project myself, it was much more
 challenging to pull things together and see the bigger picture. I did at least
 feel conscious of this throughout, and made an effort to present something
@@ -48,7 +48,7 @@ At Mozilla we use IRC a **lot**, but this is not a natural or perhaps
 comfortable communication method for everyone. Perhaps because it's public, or
 maybe because it can be intimidating to ask questions in a channel with dozens
 of people in. Although both Justin and Ana did use IRC, I also made an effort to
-find what other forms of communication they felt comfortable in. While Justin
+find which other forms of communication they felt comfortable in. While Justin
 and I used iMessage and Twitter DMs, Ana and I primarily used Hangouts and
 WhatsApp a lot.
 
@@ -56,12 +56,12 @@ WhatsApp a lot.
 
 This is very much something I learnt the hard way. While I set up a regular
 video chat with Justin, I didn't do the same with Ana. With Justin in the
-Mountain View office it felt very natural and convenient for him to have a
+Mountain View office, it felt very natural and convenient for him to have a
 scheduled chat, but Ana had a less robust internet connection, and the time
-difference made it difficult to keep a schedule. This meant that at times a few
+difference made it difficult to keep a schedule. This meant that, at times, a few
 days passed where I wasn't sure if Ana was stuck, or simply working her way
-through a task. Eventually I addressed this by just making sure that most days
-I'd send Ana a short message on Hangouts to see how she's doing. This let Ana
+through a task. Eventually, I addressed this by just making sure that most days
+I'd send Ana a short message on Hangouts to see how she's doing. This let her
 know that I was around if she had any problems she needed help with. I regret
 not doing this from the start of the project.
 
@@ -70,17 +70,16 @@ not doing this from the start of the project.
 It really helps to keep good notes. This doesn't have to mean lots of notes
 though! Keep a note of what is currently being worked on, who are the main
 points of contact, what work is blocked and who can help to unblock it. Maintain
-a list of what's next to work on so if something does come up and prevent
-progress on one task, another tasks can be picked up. It's also important to
-share these notes. For Justin we used etherpad, and as Ana's project was
+a list of what's next to work on, so if something does come up and prevent
+progress on one task, other tasks can be picked up. It's also important to
+share these notes. For Justin, we used Etherpad, and as Ana's project was
 entirely based in GitHub we mainly used the issue tracker. With hindsight, I
-think a single place for Ana's project's notes would have been helpful too
-rather than spreading them across GitHub issues.
+think a single place for Ana's project's notes would have been helpful too, rather than spreading them across GitHub Issues.
 
 # Be open to new ideas and approaches
 
 A personal challenge that I'm continuing to work on is to not have a fixed
-solution in my head when I come to review code. I did have to stop myself from
+solution in my head when I approach code reviews. I did have to stop myself from
 falling into my default reactive tendency to be protective of my own code and
 approaches to problem solving. By doing this I open myself up to the creative
 ways problems can be solved and learn about new techniques and libraries.
@@ -111,7 +110,7 @@ work on this one, but I feel that it's critically important to helping your
 interns learn from their experience. Letting them know what they've done well,
 how they've impressed you, and backing this up with specific examples has a lot
 of value. The harder part is finding ways they can improve and bringing that
-to them in a way they can absorb learn to grow from.
+to them in a way they can both absorb and learn to grow from.
 
 I really enjoyed being a mentor, and I am looking forward to having the
 opportunity to do it again. Justin and Ana: thank you again for being awesome!
